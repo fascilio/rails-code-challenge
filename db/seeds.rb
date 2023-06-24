@@ -16,6 +16,10 @@ Restaurant.create([
     {
         name: "PizzArte",
         address: "69 W 55th St, New York, NY 10019"
+    },
+    {
+        name: "zpizzar",
+        address: "70 E 66th St, New York, NY 100"
     }
 ])
 
