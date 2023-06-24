@@ -51,7 +51,7 @@ Replace the values with the desired price, pizza ID, and restaurant ID.
 ## Data Model 
 
 The API uses the following database tables:
-• Restaurant
+1. Restaurant
 
  •   id (integer)
  •   name (string)
@@ -59,7 +59,7 @@ The API uses the following database tables:
  •   created_at (datetime)
  •   updated_at (datetime)
 
-•Pizza
+2.Pizza
 
  •   id (integer)
  •   name (string)
@@ -67,7 +67,7 @@ The API uses the following database tables:
  •   created_at (datetime)
  •   updated_at (datetime)
 
-•RestaurantPizza
+3.RestaurantPizza
 
  •   id (integer)
  •   restaurant_id (integer)
