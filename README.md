@@ -72,7 +72,7 @@ The API uses the following database tables:
  •   id (integer)
  •   restaurant_id (integer)
  •   pizza_id (integer)
- •   price (decimal)
+ •   price (float)
  •   created_at (datetime)
  •   updated_at (datetime)
 
